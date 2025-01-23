@@ -86,6 +86,3 @@ st.markdown('''
             # 
              
             ''')
-
-# To run the Streamlit app, use the following command in the terminal:
-# streamlit run c:/Users/chd73/Downloads/my/myenv/Include/test_opencv.py
